@@ -1,0 +1,23 @@
+.header img{
+    height: 80px;
+}
+.header{
+    text-align: center;
+    padding-top: 20px;
+}
+.header .line{
+    background-color: black;
+    line-height: 60px;
+    font-size: 20px;
+    text-align: left;
+}
+.line a{
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+    padding: 5px;
+}
+.line a:hover{
+    background-color: gray;
+    color: greenyellow;
+}
